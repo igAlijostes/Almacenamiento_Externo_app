@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TarjetaSD</string>
+    <string name="boton_1">Consultar</string>
+    <string name="boton_2">Guardar</string>
+    <string name="nombre_archivo">Introduzca nombre del archivo</string>
+    <string name="contenido_archivo">Contenido</string>
+</resources>
